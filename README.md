@@ -1,6 +1,6 @@
 # Gaussian Elimination:
 
-As part of learning from Gilbert Strang's amazing "Linear Algebra and Its Applications", I've implemented Gaussian implementation.
+As part of learning from Gilbert Strang's amazing "Linear Algebra and Its Applications", I've implemented Gaussian Elimination implementation.
 
 
 ## Algorithm Steps
